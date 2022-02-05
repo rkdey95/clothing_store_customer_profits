@@ -12,9 +12,9 @@ The project employs the following steps:
 2) Exploratory Data Analysis and Feature Engineering
 3) Development of models and testing:
 - Random Forest
-       - b) Support Vector Machine
-       - c) K-Nearest Neighbours
-       - d) Neural Networks 
+- Support Vector Machine
+- K-Nearest Neighbours
+- Neural Networks 
 
 ## To-Do
 1) Download the repository. 
