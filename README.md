@@ -11,7 +11,7 @@ The project employs the following steps:
 1) Data importing and cleaning
 2) Exploratory Data Analysis and Feature Engineering
 3) Development of models and testing:
-       - a) Random Forest
+- Random Forest
        - b) Support Vector Machine
        - c) K-Nearest Neighbours
        - d) Neural Networks 
